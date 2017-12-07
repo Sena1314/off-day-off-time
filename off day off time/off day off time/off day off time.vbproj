@@ -85,6 +85,12 @@
     <Compile Include="gaktivite.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="giris_sayfası.Designer.vb">
+      <DependentUpon>giris_sayfası.vb</DependentUpon>
+    </Compile>
+    <Compile Include="giris_sayfası.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="hobiler.Designer.vb">
       <DependentUpon>hobiler.vb</DependentUpon>
     </Compile>
@@ -120,6 +126,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="gaktivite.resx">
       <DependentUpon>gaktivite.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris_sayfası.resx">
+      <DependentUpon>giris_sayfası.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="hobiler.resx">
       <DependentUpon>hobiler.vb</DependentUpon>

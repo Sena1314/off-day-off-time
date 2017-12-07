@@ -11,3 +11,18 @@ c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day o
 c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.pdb
 C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.hobiler.resources
 C:\Users\Lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.gaktivite.resources
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\bin\Debug\off day off time.exe.config
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\bin\Debug\off day off time.exe
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\bin\Debug\off day off time.pdb
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\bin\Debug\off day off time.xml
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off day off time.vbprojResolveAssemblyReference.cache
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off_day_off_time.Bilgiler.resources
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off_day_off_time.gaktivite.resources
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off_day_off_time.giris_sayfası.resources
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off_day_off_time.Hobiler.resources
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off_day_off_time.Resources.resources
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off day off time.vbproj.GenerateResource.Cache
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off day off time.vbproj.CoreCompileInputs.cache
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off day off time.exe
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off day off time.xml
+C:\Users\Sena Nur KİRAZ\Desktop\off day off time\off day off time\off day off time\obj\Debug\off day off time.pdb
